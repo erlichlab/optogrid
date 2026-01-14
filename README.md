@@ -24,7 +24,7 @@ https://www.aliexpress.com/item/1005007806295703.html?spm=a2g0o.order_list.order
   Original PCB project file (.eprj) exported from JLCEDA Pro, a folder containing PCB design files exported to Altium Designer format, PDF of the schematics, and exported PCBA production files.
 - **OptoGrid_Photos.pdf/**  
   Photos of OptoGrid V0.05 assembly.
-  - **Assembly_SOP_V1.pdf/**  
+- **Assembly_SOP_V1.pdf/**  
   Protocl to reproduce OptoGrid V0.05 assembly.
 
 
