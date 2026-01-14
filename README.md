@@ -30,4 +30,4 @@ https://www.aliexpress.com/item/1005007806295703.html?spm=a2g0o.order_list.order
 
 ## Purpose
 
-This repository is to share the hardware design files of OptoGrid with OpenEphys. 
+This repository is to share the hardware design files of OptoGrid with OpenEphys. Its license is set to "All Rights Reserved" for now until device distribution begins. 
