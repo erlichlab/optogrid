@@ -1,0 +1,11 @@
+If just update application:
+
+nrfutil pkg generate \
+ --application nrf52832_xxaa.hex \
+ --application-version 1 \
+ --hw-version 52 \
+ --sd-req 0xCAFE \
+ --key-file private.key \
+ OptoGrid_V4_OptoIMU.zip
+
+
